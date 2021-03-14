@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 95b3fd4aa75beab4d95270c47c9b708a
+  - enabled: 1
+    path: Assets/Scenes/LevelSelector.unity
+    guid: 77b22f9f63000f54abcee31ab66fb2c6
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: 0ceeac60d6cff1c4287fa57712fed983
+  - enabled: 1
+    path: Assets/Scenes/SingleplayerWASD.unity
+    guid: 981929723eeaeb24dae3b9f1fffd5e73
+  - enabled: 1
+    path: Assets/Scenes/SingleplayerTouch.unity
+    guid: 6155afc434845ad45b2519001bd78970
+  - enabled: 1
+    path: Assets/Scenes/Victory1.unity
+    guid: d7ef86dec77fae84cb42fccc84cc5ee5
+  - enabled: 1
+    path: Assets/Scenes/Victory2.unity
+    guid: 88d8cf3da28415045a4006703f262a9a
+  m_configObjects: {}
